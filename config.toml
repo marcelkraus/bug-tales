@@ -1,3 +1,48 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseUrl = "https://www.bugtales.de"
+defaultContentLanguage = "de"
+title = "BugTales.de"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+disableKinds = ["taxonomy","taxonomyTerm"]
+
+[Params]
+    subtitle = "Ein Käferfreund erzählt…"
+    logo = "images/avatar.jpg"
+    dateFormat = "02.01.2006"
+    rss = true
+
+[[Params.bigimg]]
+    src = "images/cover.jpg"
+
+[Author]
+    name = "Marcel Kraus"
+    website = "https://www.marcelkraus.de"
+    github = "marcelkraus/bugtales"
+    youtube = "channel/UCeYtQ1D6azUJRwsIHX38-_g"
+
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "Meine Geschichte"
+    url = "/meine-geschichte/"
+    weight = 2
+
+[[menu.main]]
+    identifier = "legal"
+    name = "Rechtliches"
+    weight = 3
+
+[[menu.main]]
+    parent = "legal"
+    name = "Impressum"
+    url = "/impressum/"
+    weight = 1
+
+[[menu.main]]
+    parent = "legal"
+    name = "Datenschutz"
+    url = "/datenschutz/"
+    weight = 2

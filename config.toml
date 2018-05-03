@@ -4,6 +4,7 @@ title = "BugTales.de"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 disableKinds = ["taxonomy","taxonomyTerm"]
+googleAnalytics = "UA-12561257-11"
 
 [Params]
     subtitle = "Ein Käferfreund erzählt…"

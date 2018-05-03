@@ -31,18 +31,6 @@ disableKinds = ["taxonomy","taxonomyTerm"]
     weight = 2
 
 [[menu.main]]
-    identifier = "legal"
-    name = "Rechtliches"
-    weight = 3
-
-[[menu.main]]
-    parent = "legal"
     name = "Impressum"
     url = "/impressum/"
-    weight = 1
-
-[[menu.main]]
-    parent = "legal"
-    name = "Datenschutz"
-    url = "/datenschutz/"
-    weight = 2
+    weight = 3

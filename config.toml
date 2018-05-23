@@ -32,6 +32,18 @@ googleAnalytics = "UA-12561257-11"
     weight = 2
 
 [[menu.main]]
+    identifier = "legal"
+    name = "Rechtliches"
+    weight = 3
+
+[[menu.main]]
+    parent = "legal"
     name = "Impressum"
     url = "/impressum/"
-    weight = 3
+    weight = 1
+
+[[menu.main]]
+    parent = "legal"
+    name = "Datenschutz"
+    url = "/datenschutz/"
+    weight = 2

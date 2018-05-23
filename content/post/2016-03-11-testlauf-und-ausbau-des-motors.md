@@ -14,9 +14,7 @@ Ich habe mir von meinem Freund Memduh eine Zündspule für 12 V geliehen und ein
 
 {{< figure src="/images/2016/oel-ab.jpg" alt="Ölwanne unter dem VW Käfer bei Ablassen des Motoröls" caption="Das alte, zähflüssige und jahrzehntealte Motoröl muss natürlich raus, bevor der Motor wieder gestartet wird." >}}
 
-Bilder sagen mehr als 1.000 Worte – und ein Video mehr als 1.000 Bilder. Daher probieren wir jetzt also mal etwas ganz neues auf _BugTales.de_. Ich präsentiere euch ein Video des ersten Testlaufs!
-
-{{< youtube bDoNN7I96w4 >}}
+Bilder sagen mehr als 1.000 Worte – und ein Video mehr als 1.000 Bilder. Daher probieren wir jetzt also mal etwas ganz neues auf _BugTales.de_. Das Video des ersten Testlaufs findet ihr [auf YouTube](https://www.youtube.com/watch?v=bDoNN7I96w4)!
 
 Unmittelbar danach konnte ich dann mit dem Motorausbau beginnen. Der Motor muss raus, da ich diesen reinigen (nicht überholen) möchte. Ausserdem führt am Ausbau kein Weg dran vorbei, wenn ich die Bodengruppe sauber sanieren möchte.
 

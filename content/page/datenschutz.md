@@ -8,10 +8,10 @@ Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der V
 ## Verantwortlicher
 
 Marcel Kraus  
-Dreikönigenweg 8a  
+Bonner Straße 88  
 50374 Erftstadt  
 Telefon: +49 2235 8401372  
-E-Mail: mail(at)bugtales(punkt)de  
+E-Mail: hallo(at)bugtales(punkt)de  
 
 ## Arten der verarbeiteten Daten:
 

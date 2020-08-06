@@ -8,15 +8,15 @@ Die folgenden Adressinformationen werden nur gemäß § 6 TDG und § 10 MDStV ge
 **Angaben gemäß § 5 TMG**
 
 Marcel Kraus  
-Dreikönigenweg 8a  
+Bonner Straße 88  
 50374 Erftstadt  
 Telefon: +49 2235 8401372  
-E-Mail: mail(at)bugtales(punkt)de
+E-Mail: hallo(at)bugtales(punkt)de
 
 **Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:**
 
 Marcel Kraus  
-Dreikönigenweg 8a  
+Bonner Straße 88  
 50374 Erftstadt
 
 ## Haftungsausschluss
